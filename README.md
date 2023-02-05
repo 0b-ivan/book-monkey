@@ -1,3 +1,5 @@
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/iverybee/book-monkey/)
+
 # BookMonkey
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
